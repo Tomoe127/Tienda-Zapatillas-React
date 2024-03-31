@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Tienda-Zapatillas-React/static/css/main.a52342ca.css",
+    "main.js": "/Tienda-Zapatillas-React/static/js/main.7a303b95.js",
+    "static/js/453.33a39b8f.chunk.js": "/Tienda-Zapatillas-React/static/js/453.33a39b8f.chunk.js",
+    "static/media/inicio.jpg": "/Tienda-Zapatillas-React/static/media/inicio.4a59ed5e033d863dc514.jpg",
+    "static/media/img011.jpg": "/Tienda-Zapatillas-React/static/media/img011.516d92a4a7c193c21914.jpg",
+    "static/media/img08.jpg": "/Tienda-Zapatillas-React/static/media/img08.81e412af83bbd5f7b0be.jpg",
+    "static/media/img07.jpg": "/Tienda-Zapatillas-React/static/media/img07.0132f5347c94f1da09f8.jpg",
+    "static/media/img10.jpg": "/Tienda-Zapatillas-React/static/media/img10.91365af89817c1fbb043.jpg",
+    "static/media/img02.jpg": "/Tienda-Zapatillas-React/static/media/img02.ed4b76a0c62ef811334d.jpg",
+    "static/media/img03.jpg": "/Tienda-Zapatillas-React/static/media/img03.475683e4016c25c0eda4.jpg",
+    "static/media/img06.jpg": "/Tienda-Zapatillas-React/static/media/img06.9a6f6c09fde40fc6c1fe.jpg",
+    "static/media/img09.jpg": "/Tienda-Zapatillas-React/static/media/img09.2672b0a23d6bfee74202.jpg",
+    "static/media/img05.jpg": "/Tienda-Zapatillas-React/static/media/img05.b8381f5f7713535eb4ec.jpg",
+    "static/media/Nike.jpg": "/Tienda-Zapatillas-React/static/media/Nike.5eedf5f7d339d137435a.jpg",
+    "static/media/img04.jpg": "/Tienda-Zapatillas-React/static/media/img04.faae85890c73315ec3fc.jpg",
+    "static/media/img01.jpg": "/Tienda-Zapatillas-React/static/media/img01.b982c5d15cea7c86747f.jpg",
+    "index.html": "/Tienda-Zapatillas-React/index.html",
+    "main.a52342ca.css.map": "/Tienda-Zapatillas-React/static/css/main.a52342ca.css.map",
+    "main.7a303b95.js.map": "/Tienda-Zapatillas-React/static/js/main.7a303b95.js.map",
+    "453.33a39b8f.chunk.js.map": "/Tienda-Zapatillas-React/static/js/453.33a39b8f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a52342ca.css",
+    "static/js/main.7a303b95.js"
+  ]
+}
